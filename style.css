@@ -21,8 +21,8 @@
 .todo-app h2{
     color: #2d9519;
     display: flex;
-    align-items: center;
-    margin-bottom: 20px;
+    align-items: center
+    margin-bottom: 20px
 }
 
 .todo-app h2 img{
