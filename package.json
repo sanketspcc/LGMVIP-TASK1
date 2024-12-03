@@ -4,7 +4,7 @@
   "description": "A brief description of your project",
   "main": "script.js",
   "scripts": {
-      "start": "node script.js"
+      "start": "node script.js",
       "test": "jest --reporters=default --reporters=jest-junit"
   },
   "author": "Your Name",
